@@ -63,8 +63,7 @@ scikit-learn
 The original match video `Input.mp4` exceeds GitHub’s 100 MB upload limit and cannot be stored in this repository.
 
 📥 **Download it from Google Drive:**
-[🔗 Click here to access Input.mp4](https://drive.google.com/file/d/1iBtlb8SkjRaJe8l0Nu7ZEvdlawlHUeWh/view?usp=drive_link)
-*(Replace this link with your actual Google Drive link)*
+[🔗 [Click here to access Input.mp4](https://drive.google.com/file/d/1iBtlb8SkjRaJe8l0Nu7ZEvdlawlHUeWh/view?usp=drive_link)]
 
 Once downloaded, place the file in the root directory of the project (same level as `extract_frames.py`) to ensure compatibility with the pipeline.
 
@@ -175,5 +174,4 @@ player_id_map = {
 * Zhang et al. (2022). *ByteTrack: Multi-Object Tracking by Associating Every Detection Box*. [arXiv:2110.06864](https://arxiv.org/abs/2110.06864)
 * Teed & Deng (2020). *RAFT: Recurrent All Pairs Field Transforms for Optical Flow*. [GitHub](https://github.com/princeton-vl/RAFT)
 
----# FLOWTBALL
-# FLOWTBALL
+---
